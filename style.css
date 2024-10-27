@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(255, 145, 227);
+  color: rgb(255, 122, 145);
+  font-family: cursive;
+}
+h1{
+  color: rgb(255, 234, 234);
+  font-family: bold;
+  text-shadow: -2px 2px rgb(255, 196, 196);
+  text-align: center;
+  font-size: 40px;
+}
+p{ 
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
