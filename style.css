@@ -26,3 +26,9 @@ p{
 h3{
 text-align: left;
 }
+h2{
+   color: rgb(255, 234, 234);
+  font-family: bold;
+  text-shadow: -2px 2px rgb(222, 161, 174);
+  text-align: center;
+  font-size: 40px;}
