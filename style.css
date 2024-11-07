@@ -36,3 +36,9 @@ color: rgb(255, 234, 234);
   font-family: bold;
   text-shadow: -2px 2px rgb(100, 28, 67);
 }
+.flower {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  justify-content: center;
+}
