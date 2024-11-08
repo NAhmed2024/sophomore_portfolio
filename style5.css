@@ -33,3 +33,6 @@ h2{
   border-style: solid;
   border-radius: 65px;
   border-style: double;
+h6 {
+     color: rgb(48,69,41); 
+  }
