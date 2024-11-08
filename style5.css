@@ -27,12 +27,14 @@ h2{
   flex-wrap: wrap;
   justify-content: center;
 }
+img{
   float: center;
   border-color: rgb(196, 164, 132);
   border-width: 15px;
   border-style: solid;
   border-radius: 65px;
   border-style: double;
+}
 h6 {
      color: rgb(48,69,41); 
   }
