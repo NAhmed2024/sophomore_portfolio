@@ -1,0 +1,37 @@
+body {
+  background: rgb(162, 203, 255);
+}
+p {
+  background-color: rgb(200, 207, 255);
+  color: #2719a1;
+  font-family: Cursive;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+h1 {
+  font-weight: bold;
+  color: rgb(62, 0, 201);
+  font-family: cursive;
+  text-shadow: 2px 2px #110759;
+  text-decoration: underline;
+  text-align: center;
+}
+h2{
+  text-shadow: -2px 2px black;
+  text-decoration: underline;
+}
+img {
+  float: center;
+  margin: 10px;
+  border-color: rgb(93, 72, 255);
+  border-width: 12px;
+  border-style: solid;
+  border-radius: 60px
+}
+.point{
+  color: rgb(0, 28, 134);
+}
+.pointed{
+  color: rgb(0, 0, 255);
+}
