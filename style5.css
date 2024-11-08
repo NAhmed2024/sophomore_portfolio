@@ -1,0 +1,30 @@
+body{
+   background-image: url('wizard.jpg');
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
+h1{
+  color: rgb(255, 234, 234);
+  font-family: bold;
+  text-shadow: -2px 2px rgb(255, 196, 196);
+  font-size: 40px;
+}
+img{
+  float: center;
+  border-color: rgb(255, 234, 234);
+  border-width: 15px;
+  border-style: solid;
+  border-radius: 65px;
+  border-style: double;
+}
+p{
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgb(74,96,74);
+}
+h2{
+  color: rgb(255, 234, 234);
+  font-family: bold;
+  text-shadow: -2px 2px rgb(222, 161, 174);
+  font-size: 30px;
