@@ -47,11 +47,11 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(230, 132, 200);
+  background-color: r#000080;
 }
 li {
   float: left;
-  border-right:3px solid rgb(250, 190, 230) ;
+  border-right:3px solid rgb(0, 0, 255);
 }
 li:last-child {
   border-right: none;
