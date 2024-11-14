@@ -42,24 +42,19 @@ color: rgb(255, 234, 234);
   flex-wrap: wrap;
   justify-content: center;
 }
-<style>
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: rgb(230, 132, 200);
-
-
 li {
   float: left;
   border-right:3px solid rgb(250, 190, 230) ;
 }
-
 li:last-child {
   border-right: none;
 }
-
 li a {
   display: block;
   color: white;
@@ -67,11 +62,9 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
 li a:hover:not(.active) {
   background-color: rgb(230, 170, 240);
 }
-
 .active {
   background-color: rgb(250, 190, 230);
 }
