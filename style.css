@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(255, 208, 239);
+  background-color: rgb(222, 161, 174);
   color: white;
   font-family: cursive;
   text-align: center;
@@ -28,7 +28,7 @@ text-align: left;
 h2{
   color: rgb(255, 234, 234);
   font-family: bold;
-  text-shadow: -2px 2px rgb(222, 161, 174);
+  text-shadow: -2px 2px rgb(212, 4, 78);
   font-size: 30px;
 }
 .me{
