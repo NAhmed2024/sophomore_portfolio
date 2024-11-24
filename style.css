@@ -34,7 +34,7 @@ h2{
 .me{
 color: rgb(255, 234, 234);
   font-family: bold;
-  text-shadow: -2px 2px rgb(100, 28, 67);
+  text-shadow: -2px 2px rgb(255, 196, 196);
 }
 .flower {
   display: flex;
